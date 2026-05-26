@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceptringify",
+        "uuid": 2974023,
+        "checksum": "v8yd0m"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
